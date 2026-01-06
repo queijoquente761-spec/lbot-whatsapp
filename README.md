@@ -138,4 +138,4 @@ Diversos para administrar o bot e ter controle sobre ele.
 ## 🙏 Agradecimentos
 
 * A minha mãe e o meu pai que me fizeram com muito amor
-* [`WhiskeySockets/Baileys`](https://github.com/WhiskeySockets/Baileys) - Por disponibilizar a biblioteca Baileys e dar suporte no Discord principalmente a nós brasileiros.
+* [`WhiskeySockets/Baileys`](https://github.com/WhiskeySockets/ Baileys) - Por disponibilizar a biblioteca Baileys e dar suporte no Discord principalmente a nós brasileiros.
